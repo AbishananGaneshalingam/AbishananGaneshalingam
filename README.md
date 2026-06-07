@@ -18,20 +18,17 @@
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://github.com/AbishananGaneshalingam" target="_blank">
-    <img src="https://img.icons8.com/color/48/github--v1.png" style="margin-right:12px;" />
-  </a>
-
   <a href="https://www.linkedin.com/in/abishanan-ganeshalingam/" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" style="margin-right:12px;" />
-  </a>
-
+    <img src="https://img.icons8.com/color/48/linkedin.png"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/AbishananGaneshalingam" target="_blank">
+    <img src="https://img.icons8.com/color/48/github--v1.png"/>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/iam_abishanan/" target="_blank">
-    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" style="margin-right:12px;" />
-  </a>
-
+    <img src="https://img.icons8.com/color/48/instagram-new--v1.png"/>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@AbishananGaneshalingam" target="_blank">
-    <img src="https://img.icons8.com/color/48/youtube-play.png" />
+    <img src="https://img.icons8.com/color/48/youtube-play.png"/>
   </a>
 </p>
 
@@ -40,17 +37,17 @@
 ### 💻 I Code In
 
 <p align="left">
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" />
-  <img src="https://img.icons8.com/color/48/kotlin.png" />
-  <img src="https://img.icons8.com/color/48/python.png" />
-  <img src="https://img.icons8.com/color/48/javascript.png" />
-  <img src="https://img.icons8.com/color/48/typescript.png" />
-  <img src="https://img.icons8.com/color/48/react-native.png" />
-  <img src="https://img.icons8.com/color/48/nodejs.png" />
-  <img src="https://img.icons8.com/color/48/spring-logo.png" />
-  <img src="https://img.icons8.com/color/48/mongodb.png" />
-  <img src="https://img.icons8.com/color/48/mysql-logo.png" />
-  <img src="https://img.icons8.com/color/48/postgreesql.png" />
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
+  <img src="https://img.icons8.com/color/48/kotlin.png"/>
+  <img src="https://img.icons8.com/color/48/python.png"/>
+  <img src="https://img.icons8.com/color/48/javascript.png"/>
+  <img src="https://img.icons8.com/color/48/typescript.png"/>
+  <img src="https://img.icons8.com/color/48/react-native.png"/>
+  <img src="https://img.icons8.com/color/48/nodejs.png"/>
+  <img src="https://img.icons8.com/color/48/spring-logo.png"/>
+  <img src="https://img.icons8.com/color/48/mongodb.png"/>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png"/>
+  <img src="https://img.icons8.com/color/48/postgreesql.png"/>
 </p>
 
 ---
@@ -58,21 +55,23 @@
 ### 🧰 IDE & Tools I Use
 
 <p align="left">
-  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" />
-  <img src="https://img.icons8.com/color/48/android-studio--v3.png" />
-  <img src="https://img.icons8.com/color/48/git.png" />
-  <img src="https://img.icons8.com/color/48/github--v1.png" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postman.svg" height="48" />
-  <img src="https://img.icons8.com/color/48/figma--v1.png" />
-  <img src="https://img.icons8.com/color/48/amazon-web-services.png" />
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
+  <img src="https://img.icons8.com/color/48/android-studio--v3.png"/>
+  <img src="https://img.icons8.com/color/48/git.png"/>
+  <img src="https://img.icons8.com/color/48/github--v1.png"/>
+  <img src="https://img.icons8.com/color/48/postman-api.png"/>
+  <img src="https://img.icons8.com/color/48/figma--v1.png"/>
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png"/>
 </p>
 
 ---
 
 ### 💻 Workspace Spec
 
-<img height="30" src="https://img.shields.io/badge/OS-Windows_11-blue?style=for-the-badge"/> 
-<img height="30" src="https://img.shields.io/badge/Editor-VS_Code-green?style=for-the-badge"/> 
+<p align="left">
+  <img src="https://img.shields.io/badge/OS-Windows_11-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Editor-VS_Code-green?style=for-the-badge"/>
+</p>
 
 ---
 
