@@ -21,15 +21,14 @@
   <a href="https://www.linkedin.com/in/abishanan-ganeshalingam/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="32" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+ 
   <a href="https://github.com/AbishananGaneshalingam" target="_blank">
     <img src="https://img.icons8.com/ios-glyphs/32/github.png" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+ 
   <a href="https://www.instagram.com/iam_abishanan/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="32" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@AbishananGaneshalingam" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="32" />
   </a>
