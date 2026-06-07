@@ -62,7 +62,7 @@
 ### 📊 GitHub Stats
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbishananGaneshalingam&show_icons=true&theme=tokyonight)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abishananganeshalingam&" alt="abishananganeshalingam" /></p>
 
 
 ---
