@@ -15,10 +15,22 @@
 
 ---
 
-### 🌐 Social Presence
+### 🤝 Connect with Me
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/)  
-[<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/AbishananGaneshalingam)
+<p align="left">
+  <a href="https://github.com/AbishananGaneshalingam">
+    <img src="https://img.icons8.com/color/48/github--v1.png" />
+  </a>
+  <a href="https://www.linkedin.com/in/abishanan-ganeshalingam/">
+    <img src="https://img.icons8.com/color/48/linkedin.png" />
+  </a>
+  <a href="https://www.youtube.com/@AbishananGaneshalingam">
+    <img src="https://img.icons8.com/color/48/youtube-play.png" />
+  </a>
+  <a href="https://www.instagram.com/iam_abishanan/">
+    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" />
+  </a>
+</p>
 
 ---
 
