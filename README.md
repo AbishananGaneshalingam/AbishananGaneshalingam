@@ -34,45 +34,25 @@
 - Group Software Engineering Project
 
 ---
+## 🛠️ Technical Skills (Compact View)
 
-## 🛠️ Technical Skills
+**Languages:**  
+`Java` · `Kotlin` · `Python` · `JavaScript (ES6+)` · `TypeScript`
 
-### Programming Languages
-- Java
-- Kotlin
-- Python
-- JavaScript (ES6+)
-- TypeScript
+**Frontend:**  
+`React` · `Next.js` · `Redux` · `HTML` · `CSS` · `Tailwind CSS` · `Material UI`
 
-### Frontend
-- React.js, Next.js, Redux
-- HTML, CSS
-- Tailwind CSS, Material-UI
+**Backend:**  
+`Spring Boot` · `Node.js` · `Express.js` · `REST APIs` · `BFF Architecture` · `JWT` · `OAuth2`
 
-### Backend
-- Spring Boot
-- Node.js, Express.js
-- RESTful API Development
-- BFF Architecture
-- Authentication: JWT, OAuth2
+**Mobile:**  
+`Android SDK` · `Jetpack Compose` · `MVVM` · `Coroutines`
 
-### Mobile
-- Android SDK
-- Jetpack Compose
-- MVVM Architecture
-- Coroutines
+**Databases:**  
+`MongoDB` · `PostgreSQL` · `MySQL`
 
-### Databases
-- MongoDB
-- PostgreSQL
-- MySQL
-
-### Cloud & Tools
-- AWS (Basics)
-- Azure DevOps
-- Git, GitHub
-- Jira, Trello
-- Postman, Figma
+**Cloud & Tools:**  
+`AWS (Basics)` · `Azure DevOps` · `Git` · `GitHub` · `Jira` · `Trello` · `Postman` · `Figma`
 
 ---
 
