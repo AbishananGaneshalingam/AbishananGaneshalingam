@@ -1,76 +1,89 @@
-## Hi there 👋 It's me Abishanan Ganeshalingam
+<!-- ================= HEADER ================= -->
+<h1 align="center">Hi 👋, I'm Abishanan Ganeshalingam</h1>
+<h3 align="center">Software Developer | MERN Stack | AI/ML Enthusiast | Future Tech Entrepreneur</h3>
 
-💻 Software Engineer | Full-Stack & Mobile Developer  
-📍 Montreal, Canada 🇨🇦  
-🚀 Aspiring AI / ML Engineer & Tech Entrepreneur  
-
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-
-- 🎓 Diploma of Higher Education (DipHE) in Software Engineering  
-- 💼 Experience in Web, Mobile & Backend Development  
-- 🌱 Currently learning AI / ML, Cloud Computing (AWS) & System Design  
-- ⚙️ Working with MERN Stack, Spring Boot & Android (Jetpack Compose)  
-- 🤝 Comfortable working in Agile teams  
-- ⚡ Fun fact: Native Tamil speaker | Fluent in English | Learning French 🇫🇷  
-
----
-
-### 🤝 Connect with me
-
-<p align="left">
-<a href="https://x.com/AbishananG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AbishananG" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/abishanan-ganeshalingam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abishanan-linkedin" height="30" width="40" /></a>
-<a href="https://www.instagram.com/iam_abishanan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam_abishanan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@AbishananGaneshalingam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="AbishananGaneshalingam" height="30" width="40" /></a>
-</p>
-
-
----
-
-### 💻 I Code In
-
-<p align="left">
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" />
-  <img src="https://img.icons8.com/color/48/kotlin.png" />
-  <img src="https://img.icons8.com/color/48/python.png" />
-  <img src="https://img.icons8.com/color/48/javascript.png" />
-  <img src="https://img.icons8.com/color/48/typescript.png" />
-  <img src="https://img.icons8.com/color/48/react-native.png" />
-  <img src="https://img.icons8.com/color/48/nodejs.png" />
-  <img src="https://img.icons8.com/color/48/spring-logo.png" />
-  <img src="https://img.icons8.com/color/48/mongodb.png" />
-  <img src="https://img.icons8.com/color/48/mysql-logo.png" />
-  <img src="https://img.icons8.com/color/48/postgreesql.png" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbishananGaneshalingam&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-### 🧰 IDE & Tools I Use
+<!-- ================= SOCIAL LINKS ================= -->
+## 🌐 Connect with me
 
 <p align="left">
-  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" />
-  <img src="https://img.icons8.com/color/48/android-studio--v3.png" />
-  <img src="https://img.icons8.com/color/48/git.png" />
-  <img src="https://img.icons8.com/color/48/github--v1.png" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postman.svg" height="48" />
-  <img src="https://img.icons8.com/color/48/figma--v1.png" />
-  <img src="https://img.icons8.com/color/48/amazon-web-services.png" />
+<a href="https://x.com/AbishananG" target="blank"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/abishanan-ganeshalingam/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/iam_abishanan/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.youtube.com/@AbishananGaneshalingam" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://leetcode.com/u/AbishananGaneshalingam/" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
 
 ---
 
-### 💻 Workspace Spec
+<!-- ================= ABOUT ================= -->
+## 🧠 About Me
 
-<img src="https://img.shields.io/badge/OS-Windows_11-blue?style=for-the-badge" />
+- 💻 Full Stack Developer (MERN)
+- 🤖 Learning AI & Machine Learning
+- 🚀 Passionate about building real-world tech products
+- 🎯 Goal: Become Tech Entrepreneur in Canada/USA
+- 🌱 Currently improving DSA + System Design
 
 ---
 
-### 📊 GitHub Stats
+<!-- ================= TECH STACK ================= -->
+## ⚙️ Tech Stack
 
-![Abishanan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbishananGaneshalingam&show_icons=true&theme=dark)
+<p>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
 
 ---
 
-### 📈 GitHub Activity Graph
+<!-- ================= DEVICES ================= -->
+## 💻 Devices I Use
 
-![Abishanan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AbishananGaneshalingam&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)
+<p>
+<img height="28" src="https://img.shields.io/badge/MacBook-Pro_M1-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+<img height="28" src="https://img.shields.io/badge/NVIDIA-GTX_1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+<img height="28" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
+</p>
+
+---
+
+<!-- ================= GITHUB STATS ================= -->
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbishananGaneshalingam&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbishananGaneshalingam&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<!-- ================= ACTIVITY GRAPH ================= -->
+## 🔥 Contribution Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbishananGaneshalingam&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+<!-- ================= LEETCODE ================= -->
+## 🧠 LeetCode Progress
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/AbishananGaneshalingam?theme=dark&font=baloo&ext=heatmap)](https://leetcode.com/u/AbishananGaneshalingam/)
+
+---
+
+<!-- ================= END ================= -->
+## 🚀 Always Building. Always Learning.
