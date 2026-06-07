@@ -16,10 +16,12 @@
 ---
 
 ### 🌐 Social Presence
+
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/)  
 [<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/AbishananGaneshalingam)
 
 ---
+
 ### 💻 I Code In
 
 <p align="left">
@@ -49,18 +51,22 @@
   <img src="https://img.icons8.com/color/48/figma--v1.png" />
   <img src="https://img.icons8.com/color/48/amazon-web-services.png" />
 </p>
+
 ---
 
 ### 💻 Workspace Spec
+
 <img height="30" src="https://img.shields.io/badge/OS-Windows_11-blue?style=for-the-badge"/> 
 <img height="30" src="https://img.shields.io/badge/Editor-VS_Code-green?style=for-the-badge"/> 
 
 ---
 
 ### 📊 GitHub Stats
+
 ![Abishanan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbishananGaneshalingam&show_icons=true&theme=dark)
 
 ---
 
 ### 📈 GitHub Activity Graph
+
 [![Abishanan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AbishananGaneshalingam&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/AbishananGaneshalingam)
