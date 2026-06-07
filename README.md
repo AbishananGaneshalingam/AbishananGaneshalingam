@@ -1,47 +1,75 @@
-# 👋 Hi, I'm Abishanan Ganeshalingam
-
-💻 Software Developer | MERN Stack | Java | Python  
-📍 Montreal, Canada 🇨🇦  
-🚀 Aspiring AI / ML Engineer & Tech Entrepreneur  
-
----
-
 ## 👨‍💻 About Me
-- 🔹 Software Developer with hands-on project experience
-- 🔹 Skilled in MERN Stack, Java, Android, Python & SQL
-- 🔹 Currently learning AI, ML & Cloud Computing
-- 🔹 Passionate about building real-world applications
-- 🔹 Open to internships, junior roles & freelance work
+
+- Software Engineer with experience in **full-stack web, mobile, and backend development**
+- Strong foundation in **software engineering principles and real-world application development**
+- Hands-on experience with **academic, freelance, and industry projects**
+- Comfortable working in **Agile teams** and collaborative environments
+- Passionate about building **scalable, production-ready solutions**
+- Actively preparing to transition into **AI/ML and cloud-based systems**
 
 ---
 
-## 🛠️ Tech Stack
-**Frontend:** HTML, CSS, JavaScript, React  
-**Backend:** Node.js, Express  
-**Database:** MongoDB, MySQL  
-**Languages:** Java, Python, JavaScript  
-**Tools:** Git, GitHub, VS Code, Android Studio  
+## 🎓 Education
+
+**Diploma of Higher Education (DipHE) in Software Engineering**  
+*Informatics Institute of Technology*  
+*(Affiliated with the University of Westminster, UK)*  
+**2022 – 2024 | Merit**
+
+- Software Development & Engineering Principles
+- Object-Oriented Programming
+- Web Design & Development
+- Database Systems
+- Algorithms: Theory, Design & Implementation
+- Mobile Application Development
+- Group Software Engineering Project
 
 ---
 
-## 📌 Projects
-🔹 **Guessing Quiz Game** – Java-based console application  
-🔹 **Wordverse** – Web-based project (MERN)  
-🔹 **Web Forms & Tables** – Academic Web Development Projects  
+## 🛠️ Technical Skills
 
-👉 Check my repositories below ⬇️
+### Programming Languages
+- Java
+- Kotlin
+- Python
+- JavaScript (ES6+)
+- TypeScript
+
+### Frontend
+- React.js, Next.js, Redux
+- HTML, CSS
+- Tailwind CSS, Material-UI
+
+### Backend
+- Spring Boot
+- Node.js, Express.js
+- RESTful API Development
+- BFF Architecture
+- Authentication: JWT, OAuth2
+
+### Mobile
+- Android SDK
+- Jetpack Compose
+- MVVM Architecture
+- Coroutines
+
+### Databases
+- MongoDB
+- PostgreSQL
+- MySQL
+
+### Cloud & Tools
+- AWS (Basics)
+- Azure DevOps
+- Git, GitHub
+- Jira, Trello
+- Postman, Figma
 
 ---
 
 ## 🌱 Currently Learning
-- Artificial Intelligence & Machine Learning
-- Cloud Computing (AWS basics)
-- Data Structures & Algorithms
 
----
-
-## 📫 Connect With Me
-- GitHub: https://github.com/AbishananGaneshalingam
-- LinkedIn: (add later)
-
-⭐ If you like my work, consider giving a star!
+- Artificial Intelligence & Machine Learning fundamentals
+- Cloud Computing (AWS & scalable systems)
+- Advanced backend architecture
+- Data Structures & performance optimization
