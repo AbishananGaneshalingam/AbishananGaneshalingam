@@ -34,7 +34,7 @@
 - Group Software Engineering Project
 
 ---
-## 🛠️ Technical Skills (Compact View)
+## 🛠️ Technical Skills
 
 **Languages:**  
 `Java` · `Kotlin` · `Python` · `JavaScript (ES6+)` · `TypeScript`
