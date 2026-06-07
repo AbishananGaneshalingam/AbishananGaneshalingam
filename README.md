@@ -20,31 +20,35 @@
 [<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/AbishananGaneshalingam)
 
 ---
-
 ### 💻 I Code In
-<img height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/> 
-<img height="50" src="https://img.icons8.com/color/48/kotlin.png"/> 
-<img height="50" src="https://img.icons8.com/color/48/python.png"/> 
-<img height="50" src="https://img.icons8.com/color/48/javascript.png"/> 
-<img height="50" src="https://img.icons8.com/color/48/typescript.png"/> 
-<img height="50" src="https://img.icons8.com/color/48/react-native.png"/> 
-<img height="50" src="https://img.icons8.com/color/48/nodejs.png"/> 
-<img height="50" src="https://img.icons8.com/color/48/spring-logo.png"/> 
-<img height="50" src="https://img.icons8.com/color/48/mongodb.png"/> 
-<img height="50" src="https://img.icons8.com/color/48/mysql-logo.png"/> 
-<img height="50" src="https://img.icons8.com/color/48/postgreesql.png"/>
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" />
+  <img src="https://img.icons8.com/color/48/kotlin.png" />
+  <img src="https://img.icons8.com/color/48/python.png" />
+  <img src="https://img.icons8.com/color/48/javascript.png" />
+  <img src="https://img.icons8.com/color/48/typescript.png" />
+  <img src="https://img.icons8.com/color/48/react-native.png" />
+  <img src="https://img.icons8.com/color/48/nodejs.png" />
+  <img src="https://img.icons8.com/color/48/spring-logo.png" />
+  <img src="https://img.icons8.com/color/48/mongodb.png" />
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" />
+  <img src="https://img.icons8.com/color/48/postgreesql.png" />
+</p>
 
 ---
 
 ### 🧰 IDE & Tools I Use
-<img height="50" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> 
-<img height="50" src="https://img.icons8.com/color/48/android-studio--v3.png"/> 
-<img height="50" src="https://img.icons8.com/color/48/git.png"/> 
-<img height="50" src="https://img.icons8.com/color/48/github--v1.png"/> 
-<img height="50" src="https://img.icons8.com/color/48/postman-api.png"/> 
-<img height="50" src="https://img.icons8.com/color/48/figma--v1.png"/> 
-<img height="50" src="https://img.icons8.com/color/48/amazon-web-services.png"/>
 
+<p align="left">
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" />
+  <img src="https://img.icons8.com/color/48/android-studio--v3.png" />
+  <img src="https://img.icons8.com/color/48/git.png" />
+  <img src="https://img.icons8.com/color/48/github--v1.png" />
+  <img src="https://img.icons8.com/color/48/postman-api.png" />
+  <img src="https://img.icons8.com/color/48/figma--v1.png" />
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png" />
+</p>
 ---
 
 ### 💻 Workspace Spec
