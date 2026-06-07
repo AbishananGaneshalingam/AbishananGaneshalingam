@@ -1,3 +1,12 @@
+# 👋 Hi, I'm Abishanan Ganeshalingam
+
+💻 **Software Engineer | Full-Stack & Mobile Developer**  
+⚙️ **MERN Stack | Java | Kotlin | Python | Spring Boot**  
+📍 Montreal, Canada 🇨🇦  
+🚀 **Aspiring AI / ML Engineer & Tech Entrepreneur**
+
+---
+
 ## 👨‍💻 About Me
 
 - Software Engineer with experience in **full-stack web, mobile, and backend development**
@@ -70,6 +79,6 @@
 ## 🌱 Currently Learning
 
 - Artificial Intelligence & Machine Learning fundamentals
-- Cloud Computing (AWS & scalable systems)
-- Advanced backend architecture
+- Cloud Computing (AWS & scalable backend systems)
+- Advanced backend architecture & system design
 - Data Structures & performance optimization
