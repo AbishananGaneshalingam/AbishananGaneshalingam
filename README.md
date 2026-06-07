@@ -62,8 +62,9 @@
 ### 📊 GitHub Stats
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abishananganeshalingam&" alt="abishananganeshalingam" /></p>
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abishananganeshalingam" alt="GitHub Streak Stats" />
+</div>
 
 ---
 
