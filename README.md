@@ -18,17 +18,20 @@
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://github.com/AbishananGaneshalingam">
-    <img src="https://img.icons8.com/color/48/github--v1.png" />
+  <a href="https://github.com/AbishananGaneshalingam" target="_blank">
+    <img src="https://img.icons8.com/color/48/github--v1.png" style="margin-right:12px;" />
   </a>
-  <a href="https://www.linkedin.com/in/abishanan-ganeshalingam/">
-    <img src="https://img.icons8.com/color/48/linkedin.png" />
+
+  <a href="https://www.linkedin.com/in/abishanan-ganeshalingam/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" style="margin-right:12px;" />
   </a>
-  <a href="https://www.youtube.com/@AbishananGaneshalingam">
+
+  <a href="https://www.instagram.com/iam_abishanan/" target="_blank">
+    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" style="margin-right:12px;" />
+  </a>
+
+  <a href="https://www.youtube.com/@AbishananGaneshalingam" target="_blank">
     <img src="https://img.icons8.com/color/48/youtube-play.png" />
-  </a>
-  <a href="https://www.instagram.com/iam_abishanan/">
-    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" />
   </a>
 </p>
 
