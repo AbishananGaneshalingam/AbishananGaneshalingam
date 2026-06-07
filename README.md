@@ -1,61 +1,85 @@
-<h1 align="center">Hi 👋 I'm Abishanan Ganeshalingam</h1>
+## Hi there 👋 It's me Abishanan Ganeshalingam
 
-<h3 align="center">Software Engineer | Full-Stack Developer | AI/ML Enthusiast</h3>
+💻 Software Engineer | Full-Stack & Mobile Developer  
+📍 Montreal, Canada 🇨🇦  
+🚀 Aspiring AI / ML Engineer & Tech Entrepreneur  
 
-<p align="center">
-📍 Montreal, Canada 🇨🇦 • Aspiring Tech Entrepreneur
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+
+- 🎓 Diploma of Higher Education (DipHE) in Software Engineering  
+- 💼 Experience in Web, Mobile & Backend Development  
+- 🌱 Currently learning AI / ML, Cloud Computing (AWS) & System Design  
+- ⚙️ Working with MERN Stack, Spring Boot & Android (Jetpack Compose)  
+- 🤝 Comfortable working in Agile teams  
+- ⚡ Fun fact: Native Tamil speaker | Fluent in English | Learning French 🇫🇷  
+
+---
+
+### 🤝 Connect with me
+
+<p align="left">
+<a href="https://x.com/AbishananG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AbishananG" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abishanan-ganeshalingam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abishanan-linkedin" height="30" width="40" /></a>
+<a href="https://www.instagram.com/iam_abishanan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam_abishanan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@AbishananGaneshalingam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="AbishananGaneshalingam" height="30" width="40" /></a>
 </p>
 
 ---
 
-<img align="right" width="340" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257d.gif">
+### 💻 I Code In
 
-## About Me
-
-Software Engineer focused on building scalable web and mobile applications.  
-I enjoy turning ideas into real-world products and continuously improving my skills in system design and AI.
-
-- 🎓 Diploma in Software Engineering  
-- 💻 Full-Stack & Mobile Development experience  
-- 🌱 Currently learning AI/ML, Cloud & System Design  
-- ⚙️ MERN Stack | Spring Boot | Android (Jetpack Compose)  
-- 🌍 Multilingual: Tamil 🇱🇰 | English 🇬🇧 | Learning French 🇫🇷  
-
----
-
-## Connect
-
-- X (Twitter): https://x.com/AbishananG  
-- LinkedIn: https://www.linkedin.com/in/abishanan-ganeshalingam/  
-- Instagram: https://www.instagram.com/iam_abishanan/  
-- YouTube: https://www.youtube.com/@AbishananGaneshalingam  
-- LeetCode: https://leetcode.com/u/AbishananGaneshalingam/  
-
----
-
-## Tech Stack
-
-Java • Kotlin • Python • JavaScript • TypeScript  
-React • Node.js • Spring Boot  
-MongoDB • MySQL • PostgreSQL  
-AWS • Git • Docker (learning)
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbishananGaneshalingam&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbishananGaneshalingam&theme=github-dark&hide_border=true" />
+<p align="left">
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" />
+  <img src="https://img.icons8.com/color/48/kotlin.png" />
+  <img src="https://img.icons8.com/color/48/python.png" />
+  <img src="https://img.icons8.com/color/48/javascript.png" />
+  <img src="https://img.icons8.com/color/48/typescript.png" />
+  <img src="https://img.icons8.com/color/48/react-native.png" />
+  <img src="https://img.icons8.com/color/48/nodejs.png" />
+  <img src="https://img.icons8.com/color/48/spring-logo.png" />
+  <img src="https://img.icons8.com/color/48/mongodb.png" />
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" />
+  <img src="https://img.icons8.com/color/48/postgreesql.png" />
 </p>
 
 ---
 
-## Activity
+### 🧰 IDE & Tools I Use
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" />
+  <img src="https://img.icons8.com/color/48/android-studio--v3.png" />
+  <img src="https://img.icons8.com/color/48/git.png" />
+  <img src="https://img.icons8.com/color/48/github--v1.png" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postman.svg" height="48" />
+  <img src="https://img.icons8.com/color/48/figma--v1.png" />
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png" />
+</p>
+
+---
+
+### 💻 Workspace Spec
+
+<img src="https://img.shields.io/badge/OS-Windows_11-blue?style=for-the-badge" />
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbishananGaneshalingam&bg_color=0d1117&color=ffffff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbishananGaneshalingam&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+### 🧠 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/AbishananGaneshalingam?theme=dark&font=baloo&ext=heatmap" />
+</p>
+
+---
+
+### 📈 GitHub Activity Graph
+
+![Abishanan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AbishananGaneshalingam&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)
