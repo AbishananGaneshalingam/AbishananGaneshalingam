@@ -58,16 +58,11 @@
 
 ---
 
-### 💻 Workspace Spec
-
-<img src="https://img.shields.io/badge/OS-Windows_11-blue?style=for-the-badge" />
-
----
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbishananGaneshalingam&show_icons=true&theme=tokyonight&hide_border=true" />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbishananGaneshalingam&show_icons=true&theme=tokyonight)
 </p>
 
 ---
