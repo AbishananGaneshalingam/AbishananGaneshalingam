@@ -45,7 +45,7 @@
   <img src="https://img.icons8.com/color/48/android-studio--v3.png" />
   <img src="https://img.icons8.com/color/48/git.png" />
   <img src="https://img.icons8.com/color/48/github--v1.png" />
-  <img src="https://img.icons8.com/color/48/postman-api.png" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postman.svg" height="48" />
   <img src="https://img.icons8.com/color/48/figma--v1.png" />
   <img src="https://img.icons8.com/color/48/amazon-web-services.png" />
 </p>
