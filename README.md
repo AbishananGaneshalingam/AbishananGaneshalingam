@@ -62,7 +62,6 @@
 ### 💻 Workspace Spec
 
 <img src="https://img.shields.io/badge/OS-Windows_11-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Editor-VS_Code-green?style=for-the-badge" />
 
 ---
 
