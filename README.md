@@ -1,14 +1,18 @@
-## Hi there 👋 It's me Abishanan Ganeshalingam
+<h2 align="center">Hi there 👋 It's me Abishanan Ganeshalingam</h2>
 
-<table>
-<tr>
-<td width="60%" valign="top">
+<p align="center">
+  💻 <strong>Software Engineer | Full-Stack & Mobile Developer</strong><br/>
+  📍 Montreal, Canada 🇨🇦<br/>
+  🚀 Aspiring AI / ML Engineer & Tech Entrepreneur
+</p>
 
-💻 **Software Engineer | Full-Stack & Mobile Developer**  
-📍 **Montreal, Canada 🇨🇦**  
-🚀 **Aspiring AI / ML Engineer & Tech Entrepreneur**
+<p align="center">
+  <img src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" width="420" />
+</p>
 
-<br/>
+---
+
+### 👨‍💻 About Me
 
 - 🎓 Diploma of Higher Education (DipHE) in Software Engineering  
 - 💼 Experience in Web, Mobile & Backend Development  
@@ -16,16 +20,6 @@
 - ⚙️ Working with MERN Stack, Spring Boot & Android (Jetpack Compose)  
 - 🤝 Comfortable working in Agile teams  
 - ⚡ Fun fact: Native Tamil speaker | Fluent in English | Learning French 🇫🇷  
-
-</td>
-
-<td width="40%" align="center" valign="top">
-
-<img src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" width="350" />
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -83,7 +77,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abishananganeshalingam" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abishananganeshalingam" />
 </div>
 
 ---
