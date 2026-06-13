@@ -1,18 +1,10 @@
-<h2 align="center">Hi there 👋 It's me Abishanan Ganeshalingam</h2>
+## Hi there 👋 It's me Abishanan Ganeshalingam
 
-<p align="center">
-  💻 <strong>Software Engineer | Full-Stack & Mobile Developer</strong><br/>
-  📍 Montreal, Canada 🇨🇦<br/>
-  🚀 Aspiring AI / ML Engineer & Tech Entrepreneur
-</p>
+💻 Software Engineer | Full-Stack & Mobile Developer  
+📍 Montreal, Canada 🇨🇦  
+🚀 Aspiring AI / ML Engineer & Tech Entrepreneur  
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif" width="420" />
-</p>
-
----
-
-### 👨‍💻 About Me
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 - 🎓 Diploma of Higher Education (DipHE) in Software Engineering  
 - 💼 Experience in Web, Mobile & Backend Development  
@@ -26,18 +18,10 @@
 ### 🤝 Connect with me
 
 <p align="left">
-<a href="https://x.com/AbishananG" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-</a>
-<a href="https://www.linkedin.com/in/abishanan-ganeshalingam/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://www.instagram.com/iam_abishanan/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
-<a href="https://www.youtube.com/@AbishananGaneshalingam" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
-</a>
+<a href="https://x.com/AbishananG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AbishananG" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abishanan-ganeshalingam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abishanan-linkedin" height="30" width="40" /></a>
+<a href="https://www.instagram.com/iam_abishanan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam_abishanan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@AbishananGaneshalingam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="AbishananGaneshalingam" height="30" width="40" /></a>
 </p>
 
 ---
@@ -74,10 +58,12 @@
 
 ---
 
+
 ### 📊 GitHub Stats
 
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abishananganeshalingam" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abishananganeshalingam" alt="GitHub Streak Stats" />
 </div>
 
 ---
